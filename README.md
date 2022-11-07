@@ -22,6 +22,13 @@ Keywords.
 Recommendation Systems, Data Sets, Learning-to-Rank, Neural Network, Popularity Bias, 
 Diverse Recommendations, Contextual information, Topic Model. 
 ```
+## Implementation of the code in python
+> Output
+
+ - ![image](https://user-images.githubusercontent.com/108368737/200298313-c1fcef4e-d937-4409-af05-65abff978dac.png)
+ - ![image](https://user-images.githubusercontent.com/108368737/200298576-7811be78-c3cb-49e6-a495-a4d159b86468.png)
+
+
 
 # Tool Used – Social network visualize
 
